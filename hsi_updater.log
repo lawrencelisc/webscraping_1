@@ -1,0 +1,134 @@
+2025-08-28 23:55:18,803:DEBUG:root:Starts.
+2025-08-28 23:56:43,450:DEBUG:root:Starts.
+2025-08-28 23:56:43,450:DEBUG:root:Get update news.
+2025-08-28 23:58:20,084:DEBUG:root:Starts.
+2025-08-28 23:58:20,084:DEBUG:root:Get update news.
+2025-08-28 23:58:34,369:DEBUG:root:Starts.
+2025-08-28 23:58:34,369:DEBUG:root:Get update news.
+2025-08-29 00:00:12,824:DEBUG:root:Starts.
+2025-08-29 00:00:12,824:DEBUG:root:Get update news.
+2025-08-29 00:00:17,953:DEBUG:root:Starts.
+2025-08-29 00:00:17,954:DEBUG:root:Get update news.
+2025-08-29 00:07:50,493:DEBUG:root:Starts.
+2025-08-29 00:07:50,494:DEBUG:root:Get update news.
+2025-08-29 00:09:46,866:DEBUG:root:Starts.
+2025-08-29 00:09:46,867:DEBUG:root:Get update news.
+2025-08-29 00:09:46,872:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.now.com:443
+2025-08-29 00:09:46,913:DEBUG:urllib3.connectionpool:https://finance.now.com:443 "GET /api/getAfeQuote.php?item=allindex HTTP/1.1" 200 354
+2025-08-29 00:09:46,914:ERROR:root:'lives'
+2025-08-29 00:11:05,619:DEBUG:root:Starts.
+2025-08-29 00:11:05,619:DEBUG:root:Get update news.
+2025-08-29 00:11:05,624:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.now.com:443
+2025-08-29 00:11:06,237:DEBUG:urllib3.connectionpool:https://finance.now.com:443 "GET /api/getAfeQuote.php?item=allindex HTTP/1.1" 200 354
+2025-08-29 00:11:06,242:ERROR:root:'lives'
+2025-08-29 00:12:15,240:DEBUG:root:Starts.
+2025-08-29 00:12:15,240:DEBUG:root:Get update news.
+2025-08-29 00:12:15,245:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.now.com:443
+2025-08-29 00:12:15,323:DEBUG:urllib3.connectionpool:https://finance.now.com:443 "GET /api/getAfeQuote.php?item=allindex HTTP/1.1" 200 354
+2025-08-29 00:12:15,324:ERROR:root:'lives'
+2025-08-29 00:13:15,330:DEBUG:root:Get update news.
+2025-08-29 00:13:15,335:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.now.com:443
+2025-08-29 00:13:15,417:DEBUG:urllib3.connectionpool:https://finance.now.com:443 "GET /api/getAfeQuote.php?item=allindex HTTP/1.1" 200 354
+2025-08-29 00:13:15,418:ERROR:root:'lives'
+2025-08-29 00:14:15,422:DEBUG:root:Get update news.
+2025-08-29 00:14:15,423:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.now.com:443
+2025-08-29 00:14:16,032:DEBUG:urllib3.connectionpool:https://finance.now.com:443 "GET /api/getAfeQuote.php?item=allindex HTTP/1.1" 200 354
+2025-08-29 00:14:16,032:ERROR:root:'lives'
+2025-08-29 00:15:16,038:DEBUG:root:Get update news.
+2025-08-29 00:15:16,042:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.now.com:443
+2025-08-29 00:15:16,646:DEBUG:urllib3.connectionpool:https://finance.now.com:443 "GET /api/getAfeQuote.php?item=allindex HTTP/1.1" 200 354
+2025-08-29 00:15:16,646:ERROR:root:'lives'
+2025-08-29 00:16:16,652:DEBUG:root:Get update news.
+2025-08-29 00:16:16,656:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.now.com:443
+2025-08-29 00:16:16,693:DEBUG:urllib3.connectionpool:https://finance.now.com:443 "GET /api/getAfeQuote.php?item=allindex HTTP/1.1" 200 355
+2025-08-29 00:16:16,695:ERROR:root:'lives'
+2025-08-29 00:17:16,700:DEBUG:root:Get update news.
+2025-08-29 00:17:16,704:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.now.com:443
+2025-08-29 00:17:17,411:DEBUG:urllib3.connectionpool:https://finance.now.com:443 "GET /api/getAfeQuote.php?item=allindex HTTP/1.1" 200 354
+2025-08-29 00:17:17,413:ERROR:root:'lives'
+2025-08-29 00:18:17,419:DEBUG:root:Get update news.
+2025-08-29 00:18:17,423:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.now.com:443
+2025-08-29 00:18:17,577:DEBUG:urllib3.connectionpool:https://finance.now.com:443 "GET /api/getAfeQuote.php?item=allindex HTTP/1.1" 200 355
+2025-08-29 00:18:17,577:ERROR:root:'lives'
+2025-08-29 00:19:01,304:DEBUG:root:Starts.
+2025-08-29 00:19:01,304:DEBUG:root:Get update news.
+2025-08-29 00:19:01,309:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.now.com:443
+2025-08-29 00:19:01,349:DEBUG:urllib3.connectionpool:https://finance.now.com:443 "GET /api/getAfeQuote.php?item=allindex HTTP/1.1" 200 354
+2025-08-29 00:21:01,354:ERROR:root:'title'
+2025-08-29 00:21:18,962:DEBUG:root:Starts.
+2025-08-29 00:21:18,962:DEBUG:root:Get update news.
+2025-08-29 00:21:18,967:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.now.com:443
+2025-08-29 00:21:19,012:DEBUG:urllib3.connectionpool:https://finance.now.com:443 "GET /api/getAfeQuote.php?item=allindex HTTP/1.1" 200 354
+2025-08-29 00:21:34,019:DEBUG:root:Starts.
+2025-08-29 00:21:34,019:DEBUG:root:Get update news.
+2025-08-29 00:21:34,024:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.now.com:443
+2025-08-29 00:21:34,274:DEBUG:urllib3.connectionpool:https://finance.now.com:443 "GET /api/getAfeQuote.php?item=allindex HTTP/1.1" 200 354
+2025-08-29 00:22:00,697:DEBUG:root:Starts.
+2025-08-29 00:22:00,698:DEBUG:root:Get update news.
+2025-08-29 00:22:00,703:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.now.com:443
+2025-08-29 00:22:00,956:DEBUG:urllib3.connectionpool:https://finance.now.com:443 "GET /api/getAfeQuote.php?item=allindex HTTP/1.1" 200 354
+2025-08-29 00:24:00,968:ERROR:root:'title'
+2025-08-29 00:25:00,971:DEBUG:root:Get update news.
+2025-08-29 00:25:00,976:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.now.com:443
+2025-08-29 00:25:01,054:DEBUG:urllib3.connectionpool:https://finance.now.com:443 "GET /api/getAfeQuote.php?item=allindex HTTP/1.1" 200 354
+2025-08-29 00:27:01,061:ERROR:root:'title'
+2025-08-29 00:28:01,005:DEBUG:root:Get update news.
+2025-08-29 00:28:01,007:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.now.com:443
+2025-08-29 00:28:01,663:DEBUG:urllib3.connectionpool:https://finance.now.com:443 "GET /api/getAfeQuote.php?item=allindex HTTP/1.1" 200 354
+2025-08-29 00:30:01,665:ERROR:root:'title'
+2025-08-29 00:31:01,668:DEBUG:root:Get update news.
+2025-08-29 00:31:01,671:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.now.com:443
+2025-08-29 00:31:02,296:DEBUG:urllib3.connectionpool:https://finance.now.com:443 "GET /api/getAfeQuote.php?item=allindex HTTP/1.1" 200 354
+2025-08-29 00:32:30,998:DEBUG:root:Starts.
+2025-08-29 00:32:30,998:DEBUG:root:Get update index.
+2025-08-29 00:32:31,003:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.now.com:443
+2025-08-29 00:32:31,249:DEBUG:urllib3.connectionpool:https://finance.now.com:443 "GET /api/getAfeQuote.php?item=allindex HTTP/1.1" 200 354
+2025-08-29 00:32:31,252:ERROR:root:'title'
+2025-08-29 00:33:31,256:DEBUG:root:Get update index.
+2025-08-29 00:33:31,257:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.now.com:443
+2025-08-29 00:33:31,287:DEBUG:urllib3.connectionpool:https://finance.now.com:443 "GET /api/getAfeQuote.php?item=allindex HTTP/1.1" 200 355
+2025-08-29 00:33:31,287:ERROR:root:'title'
+2025-08-29 00:34:25,568:DEBUG:root:Starts.
+2025-08-29 00:34:25,568:DEBUG:root:Get update index.
+2025-08-29 00:34:25,575:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org:443
+2025-08-29 00:34:26,840:DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "POST /bot8353091494:AAEY_bmVVlKhZ2EbK27IHTi7Sl7reIDTubw/sendMessage HTTP/1.1" 200 735
+2025-08-29 00:35:26,845:DEBUG:root:Get update index.
+2025-08-29 00:35:26,850:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org:443
+2025-08-29 00:35:27,862:DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "POST /bot8353091494:AAEY_bmVVlKhZ2EbK27IHTi7Sl7reIDTubw/sendMessage HTTP/1.1" 200 735
+2025-08-29 00:36:27,869:DEBUG:root:Get update index.
+2025-08-29 00:36:27,873:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org:443
+2025-08-29 00:36:28,889:DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "POST /bot8353091494:AAEY_bmVVlKhZ2EbK27IHTi7Sl7reIDTubw/sendMessage HTTP/1.1" 200 735
+2025-08-29 00:36:40,272:DEBUG:root:Starts.
+2025-08-29 00:36:40,272:DEBUG:root:Get update index.
+2025-08-29 00:36:40,277:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.now.com:443
+2025-08-29 00:36:40,937:DEBUG:urllib3.connectionpool:https://finance.now.com:443 "GET /api/getAfeQuote.php?item=allindex HTTP/1.1" 200 354
+2025-08-29 00:36:40,941:ERROR:root:'title'
+2025-08-29 00:37:24,656:DEBUG:root:Starts.
+2025-08-29 00:37:24,656:DEBUG:root:Get update index.
+2025-08-29 00:37:24,661:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.now.com:443
+2025-08-29 00:37:24,706:DEBUG:urllib3.connectionpool:https://finance.now.com:443 "GET /api/getAfeQuote.php?item=allindex HTTP/1.1" 200 354
+2025-08-29 00:37:24,707:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org:443
+2025-08-29 00:37:25,718:DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "POST /bot8353091494:AAEY_bmVVlKhZ2EbK27IHTi7Sl7reIDTubw/sendMessage HTTP/1.1" 200 791
+2025-08-29 00:37:25,723:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org:443
+2025-08-29 00:37:26,619:DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "POST /bot8353091494:AAEY_bmVVlKhZ2EbK27IHTi7Sl7reIDTubw/sendMessage HTTP/1.1" 200 791
+2025-08-29 00:37:26,623:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org:443
+2025-08-29 00:37:27,577:DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "POST /bot8353091494:AAEY_bmVVlKhZ2EbK27IHTi7Sl7reIDTubw/sendMessage HTTP/1.1" 200 791
+2025-08-29 00:38:20,288:DEBUG:root:Starts.
+2025-08-29 00:38:20,289:DEBUG:root:Get update index.
+2025-08-29 00:38:20,294:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.now.com:443
+2025-08-29 00:38:20,568:DEBUG:urllib3.connectionpool:https://finance.now.com:443 "GET /api/getAfeQuote.php?item=allindex HTTP/1.1" 200 354
+2025-08-29 00:38:20,572:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org:443
+2025-08-29 00:38:21,545:DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "POST /bot8353091494:AAEY_bmVVlKhZ2EbK27IHTi7Sl7reIDTubw/sendMessage HTTP/1.1" 200 822
+2025-08-29 00:38:21,550:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org:443
+2025-08-29 00:38:22,617:DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "POST /bot8353091494:AAEY_bmVVlKhZ2EbK27IHTi7Sl7reIDTubw/sendMessage HTTP/1.1" 200 822
+2025-08-29 00:38:22,620:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org:443
+2025-08-29 00:38:23,498:DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "POST /bot8353091494:AAEY_bmVVlKhZ2EbK27IHTi7Sl7reIDTubw/sendMessage HTTP/1.1" 200 822
+2025-08-29 00:39:23,503:DEBUG:root:Get update index.
+2025-08-29 00:39:23,508:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): finance.now.com:443
+2025-08-29 00:39:23,775:DEBUG:urllib3.connectionpool:https://finance.now.com:443 "GET /api/getAfeQuote.php?item=allindex HTTP/1.1" 200 354
+2025-08-29 00:39:23,780:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org:443
+2025-08-29 00:39:24,728:DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "POST /bot8353091494:AAEY_bmVVlKhZ2EbK27IHTi7Sl7reIDTubw/sendMessage HTTP/1.1" 200 822
+2025-08-29 00:39:24,733:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org:443
+2025-08-29 00:39:25,751:DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "POST /bot8353091494:AAEY_bmVVlKhZ2EbK27IHTi7Sl7reIDTubw/sendMessage HTTP/1.1" 200 822
+2025-08-29 00:39:25,756:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org:443
+2025-08-29 00:39:26,756:DEBUG:urllib3.connectionpool:https://api.telegram.org:443 "POST /bot8353091494:AAEY_bmVVlKhZ2EbK27IHTi7Sl7reIDTubw/sendMessage HTTP/1.1" 200 822
